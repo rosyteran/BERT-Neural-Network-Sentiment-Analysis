@@ -1,0 +1,6 @@
+pytorch
+beautifulsoup4
+transformers
+pandas
+numpy
+requests
